@@ -1,0 +1,5 @@
+Title: "My Custom Wizard"
+Step 1: "Please enter your name:"
+Field: "Text Form Field"
+Step 2: "Choose your options:"
+Field: "Dropdown Form Field"
